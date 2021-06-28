@@ -1,16 +1,8 @@
 # todo_app
 
-A new Flutter project.
+app for organizing, planning and scheduling your projects.
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/86576304/123619583-9ae5f880-d809-11eb-99ab-ea4153a4951c.png" width="300" height="500"> <img src="https://user-images.githubusercontent.com/86576304/123619695-b81ac700-d809-11eb-8834-51cc4ec22dc9.png" width="300" height="500"> <img src="https://user-images.githubusercontent.com/86576304/123619784-d254a500-d809-11eb-8fe1-55d1fb6a4fe5.png" width="300" height="500">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
